@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://photo.kegongteng.cn</id>
+    <title>Kegongteng Plog</title>
+    <updated>2024-07-14T10:55:27.222Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://photo.kegongteng.cn"/>
+    <link rel="self" href="https://photo.kegongteng.cn/atom.xml"/>
+    <subtitle>这里，是相机的骄傲</subtitle>
+    <logo>https://photo.kegongteng.cn/images/avatar.png</logo>
+    <icon>https://photo.kegongteng.cn/favicon.ico</icon>
+    <rights>All rights reserved 2024, Kegongteng Plog</rights>
+    <entry>
+        <title type="html"><![CDATA[前门]]></title>
+        <id>https://photo.kegongteng.cn/post/qianmen/</id>
+        <link href="https://photo.kegongteng.cn/post/qianmen/">
+        </link>
+        <updated>2024-06-29T01:06:19.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.6.29<br>
+🌍地点：北京市 东城区<br>
+🎯事件：人好多啊，从未见到人如此多的七号线</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春天]]></title>
+        <id>https://photo.kegongteng.cn/post/chun-tian/</id>
+        <link href="https://photo.kegongteng.cn/post/chun-tian/">
+        </link>
+        <updated>2024-04-06T06:37:01.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.4.5<br>
+🌍地点：北京市 西城区<br>
+🎯事件：和风含心意，春来万物生</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[结算]]></title>
+        <id>https://photo.kegongteng.cn/post/jie-suan/</id>
+        <link href="https://photo.kegongteng.cn/post/jie-suan/">
+        </link>
+        <updated>2024-03-06T09:53:19.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.3.6<br>
+🌍地点：北京市 西城区<br>
+🎯事件：转瞬即逝的三年，又快到了结算时间</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雍和宫]]></title>
+        <id>https://photo.kegongteng.cn/post/yong-he-gong/</id>
+        <link href="https://photo.kegongteng.cn/post/yong-he-gong/">
+        </link>
+        <updated>2024-02-16T07:31:16.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.16<br>
+🌍地点：北京市 东城区<br>
+🎯事件：希望万事顺利！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闽王祠]]></title>
+        <id>https://photo.kegongteng.cn/post/min-wang-ci/</id>
+        <link href="https://photo.kegongteng.cn/post/min-wang-ci/">
+        </link>
+        <updated>2024-02-14T05:30:06.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.14<br>
+🌍地点：福建省 福州市<br>
+🎯事件：新旧交替，生生不息</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烟台山]]></title>
+        <id>https://photo.kegongteng.cn/post/yan-tai-shan/</id>
+        <link href="https://photo.kegongteng.cn/post/yan-tai-shan/">
+        </link>
+        <updated>2024-02-13T08:18:27.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.13<br>
+🌍地点：福建省 福州市<br>
+🎯事件：突然感觉福州市突然变成网红城市，人是真多</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年烟花]]></title>
+        <id>https://photo.kegongteng.cn/post/2024/</id>
+        <link href="https://photo.kegongteng.cn/post/2024/">
+        </link>
+        <updated>2024-02-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.10<br>
+🌍地点：福建省 福州市<br>
+🎯事件：烟火向星辰，心愿皆有成</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蟠虺纹铜盖鼎]]></title>
+        <id>https://photo.kegongteng.cn/post/pan-hui-wen-tong-gai-ding/</id>
+        <link href="https://photo.kegongteng.cn/post/pan-hui-wen-tong-gai-ding/">
+        </link>
+        <updated>2024-02-03T06:13:04.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.3<br>
+🌍地点：河南省 郑州市<br>
+🎯事件：河南博物院的蟠虺纹铜盖鼎</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["后母辛"四足铜觥]]></title>
+        <id>https://photo.kegongteng.cn/post/hou-mu-xin-si-zu-tong-gong/</id>
+        <link href="https://photo.kegongteng.cn/post/hou-mu-xin-si-zu-tong-gong/">
+        </link>
+        <updated>2024-02-03T06:10:58.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2024.2.3<br>
+🌍地点：河南省 郑州市<br>
+🎯事件：河南博物院的&quot;后母辛&quot;四足铜觥</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家博物馆]]></title>
+        <id>https://photo.kegongteng.cn/post/guo-jia-bo-wu-guan/</id>
+        <link href="https://photo.kegongteng.cn/post/guo-jia-bo-wu-guan/">
+        </link>
+        <updated>2023-11-25T05:04:29.000Z</updated>
+        <content type="html"><![CDATA[<p>🕹️时间：2023.11.25<br>
+🌍地点：北京市 东城区<br>
+🎯事件：国家博物馆真的大</p>
+]]></content>
+    </entry>
+</feed>
